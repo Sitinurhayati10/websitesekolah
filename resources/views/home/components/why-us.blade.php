@@ -17,18 +17,18 @@
                                 <i class="bx bx-receipt"></i>
                                 <h4>Events</h4>
                                 <ul>
-                                    <li>Market Day</li>
-                                    <li>Character Education Camp</li>
-                                    <li>School Gathering</li>
-                                    <li>Hari Bahasa</li>
-                                    <li>Prakerin</li>
-                                    <li>Hari Sehat</li>
-                                    <li>LKO</li>
-                                    <li>Sesi Poto</li>
-                                    <li>Kunjungan Industri</li>
-                                    <li>Graduation</li>
-                                    <li>Pesantren Kilat</li>
-                                    <li>MPLS</li>
+                                    <li align="left">Market Day</li>
+                                    <li align="left">Character Education Camp</li>
+                                    <li align="left">School Gathering</li>
+                                    <li align="left">Hari Bahasa</li>
+                                    <li align="left">Prakerin</li>
+                                    <li align="left">Hari Sehat</li>
+                                    <li align="left">Sesi Poto</li>
+                                    <li align="left">LKO</li>
+                                    <li align="left">Kunjungan Industri</li>
+                                    <li align="left">Graduation</li>
+                                    <li align="left">Pesantren Kilat</li>
+                                    <li align="left">MPLS</li>
                                 </ul>
                             </div>
                         </div>
@@ -37,28 +37,29 @@
                                 <i class="bx bx-receipt"></i>
                                 <h4>Eskul:</h4>
                                 <ul>
-                                    <li>Basket</li>
-                                    <li>Perisai Diri</li>
-                                    <li>Tinju</li>
-                                    <li>KPKBK</li>
-                                    <li>Futsal Putra</li>
-                                    <li>Futsal Putri</li>
-                                    <li>Teater</li>
-                                    <li>Aerobik</li>
-                                    <li>Badminton</li>
+                                    <li align= "left">Basket</li>
+                                    <li align= "left" >Perisai Diri</li>
+                                    <li align= "left">Tinju</li>
+                                    <li align= "left">KPKBK</li>
+                                    <li align= "left">Futsal Putra</li>
+                                    <li align= "left">Futsal Putri</li>
+                                    <li align= "left">Teater</li>
+                                    <li align= "left" >Aerobik</li>
+                                    <li align= "left">Badminton</li>
                                 </ul>
                             </div>
                         </div>
                         <div class="col-xl-4 d-flex align-items-stretch">
                             <div class="icon-box mt-4 mt-xl-0">
                                 <i class="bx bx-receipt"></i>
-                                 <h4>Keunggulan Sekolah:</h4>
+                                 <h4>Keunggulan dan Keunikan Sekolah:</h4>
                                  <ul>
-                                    <li>Lulusan Cepat atau Siap Kerja</li>
-                                    <li>Lulus dengan 3 Sertifikat</li>
-                                    <li>School Gathering</li>
-                                    <li>Banyak Beasiswa</li>
-                                    <li>Kurikulum Internasional Mikrotik bersertifikat langsung dari Perusahaan di Latvia</li>
+                                    <li align= "left">Lulusan Cepat atau Siap Kerja</li>
+                                    <li align= "left">Lulus dengan 3 Sertifikat</li>
+                                    <li align= "left">Penyaluran Kerja Setelah Lulus</li>
+                                    <li align= "left">Lulusan bisa langsung diterima Kerja di Perusahaan milik Kepala Sekolah</li>
+                                    <li align= "left" >Banyak Beasiswa</li>
+                                    <li align= "left">Kurikulum Internasional Mikrotik bersertifikat langsung dari Perusahaan di Latvia</li>
                                     <li>Dapat Prakerin di Perusahaan Besar</li>
                                     <li>Sekolah Tanpa Sistem Zonasi</li>
                                     <li>Sekolah Tanpa Biaya Daftar Ulang</li>
@@ -66,6 +67,7 @@
                                     <li>Memiliki Manajemen Sikap Siswa (Lembar Merah & Lembar Putih)</li>
                                     <li>Memfasilitasi Air Minum Gratis</li>
                                     <li>Mewajibkan Membawa (Bento, Tumbler, Handbook, dan Al-Qur'an)</li>
+                                    <li>Upacara Setiap 1 bulan sekali</li>
                                 </ul>
                             </div>
                         </div>

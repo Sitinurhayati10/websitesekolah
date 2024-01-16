@@ -17,26 +17,25 @@
                 <div class="col-lg-2 col-md-6 footer-links">
                     <h4>Useful Links</h4>
                     <ul>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">Profil</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">Akademik</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">Galeri</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">Acara</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">Contact</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">PPDB</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="href="{{ route('home.index') }}">Home</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="{{ route('home.index') }}">Profil</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="{{ route('home.index') }}">Akademik</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="{{ route('home.galeri') }}">Galeri</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="{{ route('home.contact') }}">Contact</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="{{ route('home.infoppdb') }}">Info PPDB</a></li>
                     </ul>
                 </div>
 
                 <div class="col-lg-3 col-md-6 footer-links">
                     <h4>Catagories</h4>
                     <ul>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">About</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">Sejarah Sekolah</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">Event</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">Eskul</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">Keunggulan Sekolah</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">Acara</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">Kepala Sekolah</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="href="{{ route('home.sejarahsingkat') }}">Sejarah Singkat</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="href="{{ route('home.visidanmisi') }}">Visi dan Misi</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="href="{{ route('home.strukturorganisasi') }}">Struktur Organisasi</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="href="{{ route('home.dataprofil') }}">Data Profil Sekolah</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="href="{{ route('home.kurikulum') }}">Kurikulum</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="href="{{ route('home.manajemensikapsiswa') }}">Manajemen Sikap Siswa</a></li>
+
                     </ul>
                 </div>
 

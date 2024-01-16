@@ -8,7 +8,7 @@
             <div class="text-overlay mx-auto" data-aos="zoom-in" data-aos-delay="100">
                 <h1>Wellcome to SMK KP Pasirjambu...!!!</h1>
                 <h2>Sekolah dengan pendidikan karakter dan joyfull learning</h2>
-                <a href="#" class="btn-get-started">Info PPDB</a>
+                <a href="{{ route('home.infoppdb') }}" class="btn-get-started">Info PPDB</a>
             </div>
         </div>
     </div>

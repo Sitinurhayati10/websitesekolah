@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row counters">
             <div class="col-lg-3 col-6 text-center">
-                <span data-purecounter-start="0" data-purecounter-end="20" data-purecounter-duration="1"
+                <span data-purecounter-start="0" data-purecounter-end="24" data-purecounter-duration="1"
                     class="purecounter"></span>
                 <p>Guru</p>
             </div>
@@ -17,9 +17,9 @@
                 <p>Events</p>
             </div>
              <div class="col-lg-3 col-6 text-center">
-                <span data-purecounter-start="0" data-purecounter-end="12" data-purecounter-duration="1"
+                <span data-purecounter-start="0" data-purecounter-end="14" data-purecounter-duration="1"
                     class="purecounter"></span>
-                <p>Keunggulan Sekolah</p>
+                <p>Keunggulan dan Keunikan Sekolah</p>
             </div>
         </div>
     </div>

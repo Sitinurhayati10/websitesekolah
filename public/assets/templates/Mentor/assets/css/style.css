@@ -524,6 +524,93 @@ video {
 }
 
 /*--------------------------------------------------------------
+# Menu Section
+--------------------------------------------------------------*/
+#menu {
+  width: 100%;
+  height: 80vh;
+  background: url("../img/logo.png") top center;
+  background-size: cover;
+  position: relative;
+}
+
+#menu:before {
+  content: "";
+  background: rgba(0, 0, 0, 0.4);
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+#menu .container {
+  padding-top: 72px;
+}
+
+@media (max-width: 992px) {
+  #menu .container {
+    padding-top: 62px;
+  }
+}
+
+#menu h1 {
+  margin: 0;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 56px;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+}
+
+#menu h2 {
+  color: #eee;
+  margin: 10px 0 0 0;
+  font-size: 24px;
+}
+
+#menu .btn-get-started {
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 35px;
+  border-radius: 50px;
+  transition: 0.5s;
+  margin-top: 30px;
+  border: 2px solid #fff;
+  color: #fff;
+}
+
+#menu .btn-get-started:hover {
+  background: #5fcf80;
+  border: 2px solid #5fcf80;
+}
+
+@media (min-width: 1024px) {
+  #menu {
+    background-attachment: fixed;
+  }
+}
+
+@media (max-width: 768px) {
+  #menu {
+    height: 100vh;
+  }
+
+  #menu h1 {
+    font-size: 28px;
+    line-height: 36px;
+  }
+
+  #menu h2 {
+    font-size: 18px;
+    line-height: 24px;
+  }
+}
+
+/*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
 section {
@@ -669,7 +756,7 @@ section {
 .why-us .content {
   padding: 30px;
   background: var(--primary);
-  border-radius: 4px;
+  border-radius: 10px;
   color: var(--white);
 }
 

@@ -1,6 +1,6 @@
 @extends('layouts.templates.mentor.app')
 
-@section('title', 'School')
+@section('title', 'SMK KP Pasirjambu')
 
 @section('sliders')
     @include('home.components.hero')
